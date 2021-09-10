@@ -1,17 +1,17 @@
 artist:
-  name: Your Awesome Band
-  tagline: Short information about your group, new album, etc
-  # seo_title:
-  # seo_description:
+  name: Rebel Cumbia
+  tagline: Desde Brooklyn, para el mundo
+  seo_title: "Rebel Cumbia | Brooklyn Based Cumbia Band"
+  seo_description: "Brooklyn Based Cumbia Band  | Banda de cumbias en Brooklyn, New York"
   # contact_twitter_username:
   # contact_phone: 
   # contact_email: 
 
 social:
   - name: Facebook
-    url: https://facebook.com
+    url: https://www.facebook.com/rebelcumbia/
   - name: Instagram
-    url: https://instagram.com
+    url: https://www.instagram.com/rebelcumbia
   - name: Twitter
     url: https://twitter.com
   - name: Youtube
