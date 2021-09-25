@@ -1,22 +1,19 @@
+---
 artist:
   name: Rebel Cumbia
   tagline: Desde Brooklyn, para el mundo
-  seo_title: "Rebel Cumbia | Brooklyn Based Cumbia Band"
-  seo_description: "Brooklyn Based Cumbia Band  | Banda de cumbias en Brooklyn, New York"
-  # contact_twitter_username:
-  # contact_phone: 
-  # contact_email: 
-
+  seo_title: Rebel Cumbia | Brooklyn Based Cumbia Band
+  seo_description: Brooklyn Based Cumbia Band  | Banda de cumbias en Brooklyn, New
+    York
 social:
-  - name: Facebook
-    url: https://www.facebook.com/rebelcumbia/
-  - name: Instagram
-    url: https://www.instagram.com/rebelcumbia
-  - name: Twitter
-    url: https://twitter.com
-  - name: Youtube
-    url: https://youtube.com
-  - name: Spotify
-    url: https://spotify.com
-
+- name: Facebook
+  url: https://www.facebook.com/rebelcumbia/
+- name: Instagram
+  url: https://www.instagram.com/rebelcumbia
+- name: Twitter
+  url: https://twitter.com
+- name: Youtube
+  url: https://youtube.com/channel/UCz7s4rul4gfO97iF5lw79Cg
+- name: Spotify
+  url: https://spotify.com
 site_language: en
